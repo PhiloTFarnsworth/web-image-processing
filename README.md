@@ -1,4 +1,4 @@
-# web-image-processing-GIMP
+# Web Image Processing for GIMP .xcf files
 A simple script to create .PNG, .AVIF and .WebP files from an .xcf Gimp image file
 
 ## Utility
